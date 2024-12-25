@@ -1,6 +1,6 @@
 # bip39-search-app
 
-This is a html5 web app for bit39 word search securitly.
+This is a html5 web app for bit39 word search securitly . With this app, you can record and search any mnemonic phrase completely offline .
 
 If you find it useful, please don't forget to star!
 
