@@ -2,6 +2,11 @@
 
 This is a html5 web app for bit39 word search securitly.
 
+If you find it useful, please don't forget to star!
+
+![image](https://github.com/user-attachments/assets/4bbc506c-8262-48c1-89c4-02c442418c78)
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
