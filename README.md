@@ -1,6 +1,6 @@
 # bip39-search-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a html5 web app for bit39 word search securitly.
 
 ## Recommended IDE Setup
 
